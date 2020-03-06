@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.3",
   "require_update": "false",
-  "disable_online": "false"
+  "disable_online": "true"
 }
